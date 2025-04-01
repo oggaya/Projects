@@ -40,19 +40,6 @@ Le fichier Moteur.h contient la déclaration de la classe Moteur, qui est respon
 2 - Gestion des erreurs :  
 Des vérifications ont été ajoutées pour détecter les erreurs lors du chargement des données, l'ouverture des fichiers ou la manipulation des images, grâce aux : `throw`, `cerr` et à l'`include <stdexcept>`.  
 
-Fonctionnalités clés réalisées :  
-
-SÉANCES 2 ET 3 :  
-
-- Questions 1 à 19 obligatoires ont été réalisées et sont toutes fonctionnelles.  
-- Questions 20 et 21 optionnelles ont été réalisées.  
-- La question 22 a été réalisée, mais à notre manière. Nous avons préféré ajouter aussi des éléments "non obligatoires" pour nos ennemis, avec un compteur pour que cela paraisse plus réaliste tout en gardant l'esprit IA.  
-
-SÉANCES 4 ET 5 :  
-
-- Questions 1 à 24 obligatoires ont été réalisées et sont toutes fonctionnelles.  
-- La question 19 optionnelle a été réalisée avec succès.  
-- La question 25 optionnelle a été réalisée avec succès.  
 
 Améliorations possibles :  
 
